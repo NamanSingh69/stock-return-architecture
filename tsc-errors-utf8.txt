@@ -1,0 +1,2 @@
+﻿src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+vite.config.ts(3,25): error TS2307: Cannot find module '@tailwindcss/vite' or its corresponding type declarations.
